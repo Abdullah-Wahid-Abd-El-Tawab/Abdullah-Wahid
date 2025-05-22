@@ -1,48 +1,81 @@
-### Hi there 👋
-<h3 align="center">
-  Welcome to Abdullah Wahid's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=CSE%20Student;Interested%20about%20Embedded%20Systems;Be%20Who%20You%20Want%20To%20Be&font=Fira%20Code&center=true&width=440&height=45&color=0df3f3&vCenter=true&size=22"></a>
-</p> 
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
-- 🏢 I'm a Student at the Faculty of Electronic Engineering.
-- 💬  Ask me about anything [here](https://www.linkedin.com/in/abdullahwahid/)
-
-<br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"><b> Skills</b>
+<h1 align="center">Hi there, I'm Abdullah Wahid </h1>
 
 <p align="center">
+ I'm an Architect of AI-Driven Intelligence, dedicated to crafting innovative systems fueled by artificial intelligence and real-time data.
+</p>
+
+---
+
+### About Me
+
+- I'm a machine learning engineer focused on **LLMs**, **real-time prediction systems**, and **deep learning**.
+- Currently diving deep into **Generative AI**, **RAG pipelines**, and **MLOps** best practices.
+- I love turning research into real, usable tools — especially when using **FastAPI**, **Streamlit**, and **Deep Learning models**.
+
+---
+
+### 🔧 Tech Stack & Tools
+
+#### 🧪 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 🧠 ML & DL Libraries
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+#### 🧩 LLMs & NLP Tools
+![Transformers](https://img.shields.io/badge/HuggingFace%20Transformers-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-4B8BBE?style=for-the-badge&logo=chainlink&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama-3C3C3C?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![DeepLake](https://img.shields.io/badge/DeepLake-1A1A1A?style=for-the-badge)
+![Vector Database](https://img.shields.io/badge/Vector_Database-009688?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-FF6363?style=for-the-badge)
+
+#### 🚀 Deployment & Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloud services](https://img.shields.io/badge/Cloud_services-4C8BF5?style=for-the-badge&logo=cloud&logoColor=white)
 
 
+#### 📊 Frontend & Visualization
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-<!--
-**Abdullah-Wahid-Abd-El-Tawab/Abdullah-Wahid-Abd-El-Tawab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-## 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdullah-Wahid&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<br>
-<div width=400px>
-<a href="https://komarev.com/ghpvc/?username=Abdullah Wahidm&style=for-the-badge">
-    <img center="left" src="https://komarev.com/ghpvc/?username=Abdullah-Wahid&style=for-the-badge">
-</a>
-</div>
+#### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+#### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 🤝 Open to Collaborate On
+
+- NLP or LLM-based projects (especially Arabic models)
+- Real-time systems ( monitoring, analytics, automation, live dashboards)
+- MLOps pipelines or data visualization platforms
+- DevOps practices (CI/CD, Docker Compose, Nginx, shell scripting)
+---
+
+### 📫 Contact Me
+
+- 📧 Email: [abdullah.wahid.250@gmail.com](abdullah.wahid.250@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/abdullahwahid](https://www.linkedin.com/in/abdullahwahid/)
+- 📱 [Phone: +0201002509842](tel:+0201002509842)
+
+
+---
+
+### 🎯 Fun Fact
+
+I enjoy building full AI pipelines — from data to deployment — and integrating them into interactive tools!
