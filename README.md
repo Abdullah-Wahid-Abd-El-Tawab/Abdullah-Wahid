@@ -8,9 +8,14 @@
 
 ### About Me
 
-- I'm a machine learning engineer focused on **LLMs**, **real-time prediction systems**, and **deep learning**.
-- Currently diving deep into **Generative AI**, **RAG pipelines**, and **MLOps** best practices.
-- I love turning research into real, usable tools — especially when using **FastAPI**, **Streamlit**, and **Deep Learning models**.
+I’m a **Machine Learning Engineer** focused on turning advanced AI research into **real-world, scalable systems**.  
+My work centers around **Natural Language Processing (NLP)** and **Large Language Models (LLMs)** to build intelligent, context-aware applications.
+
+- **Machine Learning & Deep Learning:** Building predictive models and neural networks with strong generalization  
+- **NLP & LLMs:** Chatbots, RAG systems, and domain-specific language models, Agentic AI Autonomous workflows using LangChain, and CrewAI
+- **AI Infrastructure:** FastAPI, Docker, PostgreSQL, and MLOps pipelines  
+- **Data-Centric AI:** Prioritizing data quality over model complexity  
+- **Real-world Applications:** Building and deploying AI systems to solve practical problems and automate complex workflows
 
 ---
 
