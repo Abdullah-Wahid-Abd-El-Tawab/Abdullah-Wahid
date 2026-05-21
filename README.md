@@ -64,7 +64,7 @@ My work centers around **Natural Language Processing (NLP)** and **Large Languag
 ###  Let's Collaborate
 
 I'm always looking for innovative projects in **Agentic AI**, **Domain-specific LLMs**, or **MLOps**.
-- **Phone:** [+20 106 608 9727](tel:+201002509842)
+- **Phone:** [+20 1002509842](tel:+201002509842)
 - **Email:** [abdullah.wahid.250@gmail.com](abdullah.wahid.250@gmail.com)
 - **LinkedIn:** [linkedin.com/in/abdullahwahid](https://www.linkedin.com/in/abdullahwahid/)
 
