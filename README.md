@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/abdullahwahid/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="abdullah.wahid.250@gmail.com">
+  <a href="mailto:abdullah.wahid.250@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://wa.me/201002509842">
@@ -21,24 +21,35 @@
 
 ### ⚡ About Me
 
-I’m a **Machine Learning Engineer** focused on turning advanced AI research into **real-world, scalable systems**.  
+I'm a **Machine Learning Engineer** focused on turning advanced AI research into **real-world, scalable systems**.  
 My work centers around **Natural Language Processing (NLP)** and **Large Language Models (LLMs)** to build intelligent, context-aware applications.
 
-- **Machine Learning & Deep Learning:** Building predictive models and neural networks with strong generalization  
-- **NLP & LLMs:** Chatbots, RAG systems, and domain-specific language models, Agentic AI Autonomous workflows using LangChain, and CrewAI
-- **AI Infrastructure:** FastAPI, Docker, PostgreSQL, and MLOps pipelines  
-- **Data-Centric AI:** Prioritizing data quality over model complexity  
+- **Machine Learning & Deep Learning:** Building predictive models and neural networks with strong generalization
+- **NLP & LLMs:** Chatbots, RAG systems, domain-specific language models, and Agentic AI autonomous workflows using LangChain and CrewAI
+- **AI Infrastructure:** FastAPI, Docker, PostgreSQL, and MLOps pipelines
+- **Data-Centric AI:** Prioritizing data quality over model complexity
 - **Real-world Applications:** Building and deploying AI systems to solve practical problems and automate complex workflows
 
 ---
 
-### Current Focus
+### 🧠 What I've Built
 
-- Fine-tuning and optimizing LLMs (LoRA / QLoRA)
-- Designing scalable AI backends & APIs
-- Building intelligent agents for automation workflows
+#### 🤖 Agentic AI & Multi-Agent Systems
+- Architected autonomous **multi-agent workflows** using **CrewAI**, **LangChain**, and **Pydantic** for structured task orchestration, agent communication, and runtime validation
+- Designed advanced **Agentic RAG systems** powered by **LangGraph** and **ReAct agents**, enabling multi-step reasoning, dynamic planning, and tool-augmented knowledge retrieval
 
-> "AI is not just about building models — it's about building systems that **work in production** and deliver real value."
+#### 🔍 Retrieval-Augmented Generation (RAG)
+- Engineered end-to-end **RAG pipelines** using **LangChain** and **LlamaIndex**, integrating **FAISS**, **Chroma**, and **Pinecone** for scalable semantic search over domain-specific corpora
+- Integrated **OpenAI** and **Hugging Face LLMs** to generate context-aware, source-grounded responses — reducing hallucinations through retrieval constraints and prompt optimization strategies
+
+#### 🎯 LLM Fine-Tuning & Optimization
+- Fine-tuned transformer-based LLMs using **LoRA** and **QLoRA** on custom datasets to enhance contextual understanding, response accuracy, and domain-specific adaptation
+
+#### 💬 Conversational AI & Chatbots
+- Designed intelligent chatbot systems with automated **intent classification**, backend API integrations, and optimized conversational flows for improved user experience at scale
+
+#### 📊 Data Analysis & Insights
+- Performed comprehensive data analysis and visualization using Python to extract actionable insights and support data-driven decision-making processes
 
 ---
 
@@ -61,10 +72,20 @@ My work centers around **Natural Language Processing (NLP)** and **Large Languag
 
 ---
 
-###  Let's Collaborate
+### 🚀 Current Focus
 
-I'm always looking for innovative projects in **Agentic AI**, **Domain-specific LLMs**, or **MLOps**.
+- Fine-tuning and optimizing LLMs (LoRA / QLoRA)
+- Designing scalable AI backends & APIs
+- Building intelligent agents for automation workflows
+
+> *"AI is not just about building models — it's about building systems that **work in production** and deliver real value."*
+
+---
+
+### 🤝 Let's Collaborate
+
+I'm always open to innovative projects in **Agentic AI**, **Domain-specific LLMs**, or **MLOps**.
+
 - **Phone:** [+20 1002509842](tel:+201002509842)
-- **Email:** [abdullah.wahid.250@gmail.com](abdullah.wahid.250@gmail.com)
+- **Email:** [abdullah.wahid.250@gmail.com](mailto:abdullah.wahid.250@gmail.com)
 - **LinkedIn:** [linkedin.com/in/abdullahwahid](https://www.linkedin.com/in/abdullahwahid/)
-
